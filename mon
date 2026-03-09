@@ -1,9 +1,9 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="601299445" group-title="Nguyễn Quốc Nguyện vs Choi Sung Won 12:00 ngày 12/03 PBA-LPBA World Championship 2026", Nguyễn Quốc Nguyện vs Choi Sung Won 12:00 ngày 12/03 PBA-LPBA World Championship 2026
-https://cdn-hls.taoxanh.biz/live/69ae558270a67_142246/index.m3u8?expire=1773637634&amp;sign=cae88b2744f76682bc025347d4f65c8c
-#EXTINF:-1 tvg-id="601299448" group-title="Ngô Đình Nại vs Nguyễn Huỳnh Phương Linh 12:00 ngày 12/03 PBA-LPBA World Championship 2026", Ngô Đình Nại vs Nguyễn Huỳnh Phương Linh 12:00 ngày 12/03 PBA-LPBA World Championship 2026
-https://cdn-hls.taoxanh.biz/live/69ae558e326d7_144313/index.m3u8?expire=1773637646&amp;sign=32074184ee25b7790b03bdfff4f8fca2
-#EXTINF:-1 tvg-id="601293349" group-title="Club Tijuana vs Santos Laguna 10:06 ngày 09/03 Mexico Liga MX", Club Tijuana vs Santos Laguna 10:06 ngày 09/03 Mexico Liga MX
-https://cdn-hls.taoxanh.biz/live/69ae2fda70a67_74012/index.m3u8?expire=1773627994&sign=b8df5df1754aa03aacc88700ab33d3c5
+#EXTINF:-1 tvg-id="601299445" group-title="Nguyễn Quốc Nguyện vs Choi Sung Won 12:00 ngày 09/03 PBA-LPBA World Championship 2026", Nguyễn Quốc Nguyện vs Choi Sung Won 12:00 ngày 09/03 PBA-LPBA World Championship 2026
+https://cdn-hls.taoxanh.biz/live/69ae558270a67_142246/index.m3u8?expire=1773637634&sign=cae88b2744f76682bc025347d4f65c8c
+#EXTINF:-1 tvg-id="601299448" group-title="Ngô Đình Nại vs Nguyễn Huỳnh Phương Linh 12:00 ngày 09/03 PBA-LPBA World Championship 2026", Ngô Đình Nại vs Nguyễn Huỳnh Phương Linh 12:00 ngày 09/03 PBA-LPBA World Championship 2026
+https://cdn-hls.taoxanh.biz/live/69ae570770a67_144313/index.m3u8?expire=1773638023&sign=6237f72e5f20e3918d345225a935f32b
 #EXTINF:-1 tvg-id="601293352" group-title="Bangladesh (w) vs Uzbekistan Women 16:00 ngày 09/03 AFC Women’s Asian Cup", Bangladesh (w) vs Uzbekistan Women 16:00 ngày 09/03 AFC Women’s Asian Cup
 https://live.alilicloud.com/live/74f2434436b4660db7099163ddd139ae/playlist.m3u8
+#EXTINF:-1 tvg-id="601293355" group-title="North Korea (w) vs China Women 16:00 ngày 09/03 AFC Women’s Asian Cup", North Korea (w) vs China Women 16:00 ngày 09/03 AFC Women’s Asian Cup
+https://live.alilicloud.com/live/2ec38890f38a02e5230697fe5c31367f/playlist.m3u8
